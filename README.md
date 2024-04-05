@@ -2,9 +2,9 @@
 
 1. Researching Content Ideas
     - 1.1 Identifying broader vision of the channel
-        Coming up with prompts to capture a design taste for the channel. Broader vision indicates the motive for the channel, and motives should be based in reality
+        - Coming up with prompts to capture a design taste for the channel. Broader vision indicates the motive for the channel, and motives should be based in reality
     - 1.2 Identifying the target audience
-        Target auidence in terms of
+        - Target auidence in terms of
             - 1.2.1 age
             - 1.2.2 gender distribution
             - 1.2.3 culture and specifics
