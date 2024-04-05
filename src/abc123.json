@@ -1,0 +1,34 @@
+{
+    "channel_vision": {
+        "motive": "to help people learn how to code. Making coding more accessible, more fun, and more useful. Through coding, we build things that last."
+    },
+    "target_audience": {
+        "age_range": "18-45",
+        "gender_distribution": "male",
+        "culture_specifics": "indian",
+        "viewer_ambition": "to build a career in coding"
+    },
+    "content_type": {
+        "video": true,
+        "podcast": true,
+        "blog": true,
+        "social_media_posts": true,
+        "youtube_long_form": true
+    },
+    "content_format": {
+        "shorts": true,
+        "reels": true,
+        "linkedin_video": true,
+        "twitter_video": true,
+        "vlogs": true,
+        "tutorials": true,
+        "explainer_videos": true,
+        "reviews": true,
+        "unboxing": true,
+        "podcasts": true,
+        "interviews": true,
+        "webinars": true,
+        "live_sessions": true,
+        "qna": true
+    }
+}
